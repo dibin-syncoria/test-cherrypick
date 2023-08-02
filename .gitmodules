@@ -1,0 +1,8 @@
+[submodule "feature_1"]
+	path = feature_1
+	url = git@github.com:dibin-syncoria/test_submodule.git
+	branch = feature_1
+[submodule "feature_2"]
+	path = feature_2
+	url = git@github.com:dibin-syncoria/test_submodule.git
+	branch = feature_2
